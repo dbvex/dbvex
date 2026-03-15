@@ -1,16 +1,19 @@
-## Hi there 👋
+## Привет, я Долет 👋
 
-<!--
-**dbvex/dbvex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Фронтенд-разработчик. Строю интерфейсы — от компонентных библиотек до реалтайм-приложений.
+Люблю когда код понятен, типизирован и работает без сюрпризов.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек
+
+![Vue 3](https://img.shields.io/badge/Vue-3-42b883?logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-2-f7d336)
+![Vitest](https://img.shields.io/badge/Vitest-green?logo=vitest&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-3-00DC82?logo=nuxt.js&logoColor=white)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dbvex&show_icons=true&hide_border=true&theme=default)
